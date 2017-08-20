@@ -83,26 +83,13 @@ hr {
   text-align: center;
   margin: auto;
 }
-
-
-
 .row {
   padding-bottom: 10px;
   display: flex;
 }
-
-.col-xs-4 col-sm-6 col-md-8 {
-  
-}
-
-.col-xs-8 col-sm-6 col-md-4 {
-
-}
-
 .row div[class*="col-"] {
   background-clip: content-box;
 }
-
 .coloured-column {
-  background-color: lightpink;
+background-color: lightpink;
 }
